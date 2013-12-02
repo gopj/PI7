@@ -1,0 +1,28 @@
+/* ==========================================================================
+ Author's custom styles
+ ========================================================================== */
+
+/*Links*/
+a:hover, a:focus {
+	color: #005580;
+	text-decoration: none;
+}
+
+/*Parte de seleccion (checkbox)*/
+.contenido {
+	height: 68%;
+	overflow-y: scroll;
+}
+
+.contenido2 {
+	height: 90px;
+	overflow-y: scroll;
+}
+
+#map img{
+	max-width: none;
+}
+
+
+
+

@@ -1,0 +1,3 @@
+deny from all
+Accept-Encoding: gzip, deflate
+Content-Encoding: gzip
